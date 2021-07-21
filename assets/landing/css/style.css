@@ -1,0 +1,60 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600&display=swap");
+
+body {
+    font-family: 'Poppins', sans-serif;
+  }
+  
+
+.nav-item {
+    margin-right: 90px;
+    font-weight: 500;
+}
+
+.btn-order.btn-outline-dark {
+    margin-top: 30px;
+    width: 151px;
+    font-size: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+
+.learn-more.btn-light{
+    margin-top: 30px;
+    margin-left: 30px;
+    width: 151px;
+    font-size: 20px;
+    /* font-weight: bold; */
+    background-color: white;
+    font-weight: 600;
+}
+
+/* .jumbotron {
+    background-image: url("assets/landing/img/bg-header.png");
+} */
+
+.catalogue-title h2 {
+    font-size: 45px;
+    font-weight: 600;
+}
+
+.catalogue-title h3 {
+    font-size: 40px;
+    font-weight: 400;
+    font-style: italic;
+    margin-top: 15px;
+}
+
+.btn-item.btn-outline-dark {
+    width: 151px;
+    margin-right: 20px;
+    border: 2px solid black;
+    border-radius: 10px;
+}
+
+.btn-pg.btn-outline-dark{
+    margin-right: 8px;
+    border: 2px solid black;
+    border-radius: 8px;
+}
